@@ -11,7 +11,9 @@ Avaliar o desempenho do modelo e interpretar os resultados obtidos.
 🧰 Tecnologias Utilizadas
 
 Python (pandas, numpy, scikit-learn, seaborn, matplotlib)
+
 Jupyter Notebook para análise exploratória e prototipagem
+
 Machine Learning: Random Forest
 
 📊 Etapas do Projeto
