@@ -19,16 +19,21 @@ Machine Learning: Random Forest
 📊 Etapas do Projeto
 
 Análise Exploratória
+ 
  .Visualização e estatísticas descritivas das características musicais 
 
 Pré-processamento
+ 
  .Limpeza dos dados, normalização e seleção de features relevantes
 
 Modelagem
+ 
  .Treinamento de modelos de Machine Learning para identificar padrões de gosto musical
+ 
  .Testes com diferentes algoritmos e validação cruzada
 
 Avaliação
+ 
  .Métricas de desempenho
 
 
