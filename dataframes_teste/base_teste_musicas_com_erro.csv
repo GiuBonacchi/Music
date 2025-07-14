@@ -1,0 +1,31 @@
+music,artist,duration_ms,music_popularity,genres,followers,liked,extra_column
+Music_0,Artist_2,221958,41,"['classical', 'rock']",783038,0,valor_b
+Music_1,Artist_1,246867,91,['dance'],354531,0,valor_c
+Music_2,Artist_5,231932,59,['rock'],264160,0,valor_c
+Music_3,Artist_4,203694,79,"['rock', 'hip hop']",580879,0,valor_a
+Music_4,Artist_4,219879,14,"['classical', 'indie']",221884,1,valor_c
+Music_5,Artist_3,210268,61,['reggaeton'],24247,0,valor_a
+Music_6,Artist_2,154886,61,"['rock', 'jazz', 'pop']",25300,0,valor_c
+Music_7,Artist_9,237337,46,"['classical', 'indie', 'dance']",468281,0,valor_b
+Music_8,Artist_2,268266,61,"['dance', 'classical', 'rock']",608086,0,valor_c
+Music_9,Artist_10,187498,50,"['rock', 'pop', 'dance']",534556,0,valor_a
+Music_10,Artist_7,212727,54,['classical'],349951,1,valor_a
+Music_11,Artist_1,226324,63,['jazz'],275329,0,valor_b
+Music_12,Artist_1,275203,2,['indie'],720064,1,valor_c
+Music_13,Artist_2,291335,50,"['reggaeton', 'dance']",743139,0,valor_c
+Music_14,Artist_4,116023,6,"['hip hop', 'reggaeton']",433315,1,valor_b
+Music_15,Artist_4,141090,20,"['jazz', 'dance']",927075,0,valor_c
+Music_16,Artist_9,167221,72,"['rock', 'classical']",517588,0,valor_c
+Music_17,Artist_10,164820,38,"['hip hop', 'classical', 'dance']",237584,1,valor_a
+Music_18,Artist_1,100769,17,['hip hop'],563332,1,valor_c
+Music_19,Artist_9,159735,3,"['indie', 'hip hop']",838646,1,valor_c
+Music_20,Artist_4,294027,88,"['jazz', 'dance', 'hip hop']",979732,0,valor_b
+Music_21,Artist_9,164925,59,['jazz'],377896,1,valor_b
+Music_22,Artist_7,299041,13,['dance'],49984,0,valor_a
+Music_23,Artist_4,105311,8,"['classical', 'pop']",303918,0,valor_c
+Music_24,Artist_8,203355,89,['dance'],265712,1,valor_c
+Music_25,Artist_10,284779,52,['reggaeton'],121151,1,valor_c
+Music_26,Artist_5,185305,1,"['reggaeton', 'rock']",456808,0,valor_a
+Music_27,Artist_1,259765,83,"['hip hop', 'rock']",986067,0,valor_a
+Music_28,Artist_3,230608,91,"['classical', 'dance', 'reggaeton']",134767,1,valor_b
+Music_29,Artist_7,256730,59,"['indie', 'hip hop']",649663,1,valor_a

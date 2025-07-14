@@ -1,0 +1,6 @@
+music,artist,duration_ms,music_popularity,artist_popularity,followers,genres
+Shape of You,Ed Sheeran,233712,85,95.0,10000000,pop
+Bohemian Rhapsody,Queen,-354000,90,,5000000,rock
+Blinding Lights,The Weeknd,200500,88,93.0,8000000,
+Billie Jean,Michael Jackson,abc,92,97.0,desconhecido,"pop,wrong_genre"
+Wonderwall,Oasis,259000,80,85.0,3000000,"rock,indie"

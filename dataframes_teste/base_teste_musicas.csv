@@ -1,0 +1,51 @@
+music,artist,duration_ms,music_popularity,genres,artist_popularity,followers,liked
+Music_0,Artist_2,221958,6,"['dance', 'classical']",79,185064,1
+Music_1,Artist_1,246867,20,['rock'],81,215020,0
+Music_2,Artist_5,231932,72,['jazz'],52,624094,1
+Music_3,Artist_4,203694,38,"['rock', 'indie']",23,925414,1
+Music_4,Artist_4,219879,17,['rock'],25,898421,0
+Music_5,Artist_3,210268,3,"['classical', 'jazz']",88,616270,1
+Music_6,Artist_2,154886,88,"['dance', 'rock', 'hip hop']",59,646914,0
+Music_7,Artist_9,237337,59,"['jazz', 'dance']",40,120176,0
+Music_8,Artist_2,268266,13,"['rock', 'classical']",28,918710,1
+Music_9,Artist_10,187498,8,"['hip hop', 'classical', 'dance']",14,219126,0
+Music_10,Artist_7,212727,89,['hip hop'],44,219969,0
+Music_11,Artist_1,226324,52,"['indie', 'hip hop']",64,123409,0
+Music_12,Artist_1,275203,1,"['jazz', 'dance', 'hip hop']",88,548707,0
+Music_13,Artist_2,291335,83,['jazz'],70,969140,1
+Music_14,Artist_4,116023,91,['dance'],8,254618,0
+Music_15,Artist_4,141090,59,"['classical', 'pop']",87,770598,1
+Music_16,Artist_9,167221,70,['dance'],0,51015,0
+Music_17,Artist_10,164820,43,['reggaeton'],7,773838,0
+Music_18,Artist_1,100769,7,"['reggaeton', 'rock']",87,123096,0
+Music_19,Artist_9,159735,46,"['hip hop', 'rock']",62,632347,0
+Music_20,Artist_4,294027,34,"['classical', 'dance', 'reggaeton']",10,186340,1
+Music_21,Artist_9,164925,77,"['indie', 'hip hop']",80,111687,1
+Music_22,Artist_7,299041,80,['hip hop'],7,875371,0
+Music_23,Artist_4,105311,35,"['reggaeton', 'pop', 'indie']",34,412357,0
+Music_24,Artist_8,203355,49,['hip hop'],34,736716,1
+Music_25,Artist_10,284779,3,"['hip hop', 'indie', 'dance']",32,106878,0
+Music_26,Artist_5,185305,1,"['rock', 'jazz']",4,728270,0
+Music_27,Artist_1,259765,5,"['reggaeton', 'classical']",40,974548,0
+Music_28,Artist_3,230608,53,"['pop', 'dance']",27,199286,1
+Music_29,Artist_7,256730,3,"['rock', 'dance', 'classical']",6,774290,1
+Music_30,Artist_6,184478,53,"['dance', 'pop']",72,775684,1
+Music_31,Artist_5,222537,92,"['indie', 'rock']",71,165899,0
+Music_32,Artist_3,249503,62,"['pop', 'dance']",11,974324,0
+Music_33,Artist_4,230523,17,"['classical', 'reggaeton', 'rock']",33,325767,1
+Music_34,Artist_6,102747,89,"['rock', 'indie', 'dance']",32,862882,1
+Music_35,Artist_2,223855,43,"['jazz', 'rock']",47,880858,1
+Music_36,Artist_2,290222,33,"['hip hop', 'classical']",22,380989,1
+Music_37,Artist_7,165725,73,"['pop', 'classical', 'hip hop']",61,416515,0
+Music_38,Artist_2,229981,61,"['pop', 'reggaeton']",87,44585,1
+Music_39,Artist_6,184654,99,"['classical', 'rock']",36,372369,0
+Music_40,Artist_6,266845,13,['jazz'],98,65044,1
+Music_41,Artist_10,219346,94,"['rock', 'pop', 'dance']",43,961061,0
+Music_42,Artist_5,167435,47,"['rock', 'indie']",85,443296,1
+Music_43,Artist_1,156886,14,"['hip hop', 'rock', 'dance']",90,110556,1
+Music_44,Artist_8,166803,71,"['hip hop', 'reggaeton']",34,527981,1
+Music_45,Artist_9,131551,77,"['indie', 'rock', 'classical']",64,882691,1
+Music_46,Artist_2,216216,86,"['jazz', 'dance', 'hip hop']",98,768595,0
+Music_47,Artist_7,111394,61,"['dance', 'jazz']",46,201235,1
+Music_48,Artist_2,169092,39,"['reggaeton', 'pop', 'rock']",77,26939,0
+Music_49,Artist_9,103890,84,['rock'],2,967429,0

@@ -1,0 +1,6 @@
+music,artist,duration_ms,music_popularity,artist_popularity,followers,genres
+Rolling in the Deep,Adele,228000,89,98,5000000,
+Stairway to Heaven,Led Zeppelin,erro,92,97,4500000,"rock,classic rock"
+Someone You Loved,Lewis Capaldi,182000,,80,abc,"pop,indie pop"
+Bad Guy,Billie Eilish,194000,95,desconhecido,6000000,electropop
+Hotel California,Eagles,-390000,noventa,88,7000000,"rock,,wrong"
